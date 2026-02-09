@@ -1,1 +1,1 @@
-c:\autoval\auto-validation.bat
+call "C:\autoval\auto-validation.bat" %*

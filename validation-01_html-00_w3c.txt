@@ -1,0 +1,8 @@
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/bedreigingen.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/bedreigingen.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/kenmerken.html":57.9-57.94: error: Saw a start tag “image”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/kenmerken.html":57.95-57.102: error: Stray end tag “image”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/Verspreidingenleefgebied.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/Verspreidingenleefgebied.html": error: Element “head” is missing a required instance of child element “title”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/Voedselengedrag.html": error: End of file seen without seeing a doctype first. Expected “<!DOCTYPE html>”.
+"file:/C:/Users/aless/Documents/UserInterfaces/pages/Voedselengedrag.html": error: Element “head” is missing a required instance of child element “title”.

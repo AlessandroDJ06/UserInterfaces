@@ -1,0 +1,8 @@
+=== HTML_Valid HTML ===
+*** Invalid base structure ***
+pages\bedreigingen.html
+	[Base structure] missing html-element
+pages\Verspreidingenleefgebied.html
+	[Base structure] missing html-element
+pages\Voedselengedrag.html
+	[Base structure] missing html-element
