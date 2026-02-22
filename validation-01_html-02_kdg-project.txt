@@ -1,4 +1,0 @@
-=== HTML_Semantics_content ===
-*** Main ***
-index.html
-	[MISSING main]
