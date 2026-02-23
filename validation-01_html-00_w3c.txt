@@ -1,3 +1,0 @@
-"file:/C:/Users/aless/Documents/UserInterfaces/pages/bedreigingen.html":26.5-26.323: error: The “frameborder” attribute on the “iframe” element is obsolete. Use CSS instead.
-"file:/C:/Users/aless/Documents/UserInterfaces/pages/kenmerken.html":57.9-57.94: error: Saw a start tag “image”.
-"file:/C:/Users/aless/Documents/UserInterfaces/pages/kenmerken.html":57.95-57.102: error: Stray end tag “image”.
