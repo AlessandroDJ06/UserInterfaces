@@ -1,0 +1,54 @@
+:root {
+    --backgrd: #e6d9c7;
+    --ecru: #a89c68;
+    --cafe-au-lait: #a77d5b;
+    --coyote-brown: #845d42;
+    --bone: #cfc5b3;
+    --camel: #bc9767;
+    --russet: #804f32;
+    --light-french-beige: #c0a375;
+}
+
+body{
+    width: 95vw; /* breedte van 95% viewport width */
+    margin: 0.5em auto 0 auto; /* margin 0.5em bovenaan auto rechts 0 onder auto left (trbl)*/ 
+    background-color: var(--backgrd); /*achtergrond kleur*/
+    font-size: 16px; /*body heeft standaard font size van 16px (16 is standaard)*/
+}
+
+.hidden-title{
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+}
+/*Verander de font size van elke titel*/
+h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+h3{
+    font-size: 1.3em;
+}
+
+h4{
+    font-size: 1.2em;
+}
+/* zorg dat links een andere kleur krijgen on hover , haalt ook de lijn onder de link weg*/
+a:hover{
+    color: var(--coyote-brown);
+}
+
+a{
+    text-decoration: none;
+}
+
+nav img{
+    height: 5em;
+}
+
+

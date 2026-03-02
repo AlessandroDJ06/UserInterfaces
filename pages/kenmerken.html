@@ -3,17 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="/css/site.css">
+     <link rel="stylesheet" href="/css/kenmerken.css">
     <title>Kenmerken bruine hyena</title>
 </head>
 <body>
     <header>
-        <h1>Pagina Kenmerken</h1>
+        <h1 class="hidden-title">Pagina Kenmerken</h1>
 
-        <nav>
+        <nav id="menu">
             <h2>Menu</h2>
+            <img src="../images/logo.png">
             <ul>
                 <li><a href="../index.html">Home</a></li>
-                <li><a href="kenmerken.html">Kenmerken</a></li>
+                <li class="submenu"><a href="kenmerken.html">Kenmerken</a>
+                    <ul>
+                        <li><a href="./kenmerken.html#kenmerken">Kenmerken bruine hyena</a></li>
+                        <li><a href="./kenmerken.html#fysiek">fysieke kenmerken</a></li>
+                        <li><a href="./kenmerken.html#bytheway">by the way</a></li>
+                    </ul>
+                </li>
                 <li><a href="Verspreidingenleefgebied.html">Verspreiding en leefgebied</a></li>
                 <li><a href="Voedselengedrag.html">Voedsel en gedrag</a></li>
                 <li><a href="bedreigingen.html">Bedreigingen</a></li>
@@ -22,7 +31,7 @@
     </header>
     <main>
         <article>
-            <h2>Kenmerken bruine hyena</h2>
+            <h2 id="kenmerken">Kenmerken bruine hyena</h2>
             <section>
                 <h3>Uitzicht</h3>
                 <p>De bruine hyena heeft een ruige, donkerbruine tot zwarte vacht, 
@@ -32,7 +41,7 @@
                 waardoor het dier groter en indrukwekkender lijkt.</p>
             </section>
             <section>
-                <h3>Fysieke kenmerken</h3>
+                <h3 id="fysiek">Fysieke kenmerken</h3>
                 <section>
                     <h4>lengte</h4>
                         <p>Hij wordt ongeveer 110 tot 161 centimeter lang,
@@ -49,7 +58,7 @@
         </article>
     </main>
     <aside>
-        <h2>By the way...</h2>
+        <h2 id="bytheway">By the way...</h2>
         <p>Bruine hyena op jacht. Ook de bruine hyena heeft miljarden bacteriën in zijn vacht.
         Deze info niet volledig nodig om het artikel hierboven te begrijpen.Bruine hyena op jacht. Ook de bruine hyena heeft miljarden bacteriën in zijn vacht. 
         Deze info niet volledig nodig om het artikel hierboven te begrijpen.
